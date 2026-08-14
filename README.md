@@ -1,6 +1,6 @@
 # Yin Yang Origin and Symbolism
 
-[Live site](https://raphaelasanti.github.io/yin-yang/) • [Primary page](https://raphaelasanti.github.io/yin-yang/index.html) • [License](./LICENSE)
+[Live site](https://raphaelasanti.github.io/yin-yang/) • [Full ebook (The End of Time)](https://raphaelasanti.github.io/the-end-of-time/) • [License](./LICENSE)
 
 A concise structural overview of the yin–yang symbol and two interpretations that are not opposites. This project presents both the Western dualistic reading and the compatibility‑based reading, along with historical context and structural analysis.
 
