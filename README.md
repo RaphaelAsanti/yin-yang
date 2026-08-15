@@ -55,6 +55,7 @@ This work is sustained entirely by voluntary contributions. Thank you for consid
 ## Related pages
 - Main Index: https://raphaelasanti.github.io/
 - Full eBook: https://github.com/raphaelasanti/the-end-of-time/
+- Thamud and the Camel of God: https://github.com/raphaelasanti/thamud-and-the-camel-of-god/
 - The Eye of the Needle: https://raphaelasanti.github.io/the-eye-of-the-needle/
 - Laughter Is Better Than Sex: https://raphaelasanti.github.io/laughter-is-better-than-sex/
 
